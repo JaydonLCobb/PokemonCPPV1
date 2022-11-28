@@ -10,5 +10,5 @@ FLYING: To fly around the map press "f" and the flying prompt will appear. Enter
 
 As you enter the long grass, pokemon will start to appear which will show in your terminal. As you get further and further away from your origin, you will face higher level pokemon!
 
-![ss](ScreenShot2022-11-28at2.26.52PM.png)
+![ss](poke327.png)
 
